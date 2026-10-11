@@ -1,4 +1,4 @@
-# Fortune 500 Frontier
+# S&P 500 Mean-Variance Optimization (MVO) 
 
 The graph creation was sourced from this GitHub user: https://github.com/tthustla/efficient_frontier/blob/master/Efficient%20_Frontier_implementation.ipynb
 The web scraper, ticker and yield importing, and VBA scripts were my contributions.
